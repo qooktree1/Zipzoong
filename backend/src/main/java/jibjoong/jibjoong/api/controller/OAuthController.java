@@ -43,10 +43,7 @@ public class OAuthController {
 
         member.setRefreshToken(token.getRefreshToken());
         memberRepository.save(member);
-<<<<<<< HEAD
-=======
 
->>>>>>> 4756a4d4a97628b4f6df971d07a44cf105510ede
         String accessTokenExpiration = jwtService.dateToString(token.getAccessToken());
         String refreshTokenExpiration = jwtService.dateToString(token.getRefreshToken());
 
@@ -103,7 +100,6 @@ public class OAuthController {
                    .equals(refreshToken)) {
             throw new CustomException(CustomExceptionList.REFRESH_TOKEN_ERROR);
         }
-        // 이 함수는 리프레시 토큰 분해해서 여기 email하고 소셜플랫폼 가지고 회원을 찾는데 못찾는거같은데요
 
         Jwt token = jwtService.generateToken(email, provider, name);
 

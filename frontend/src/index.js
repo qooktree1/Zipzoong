@@ -1,19 +1,15 @@
-import React from "react"
-import ReactDOM from "react-dom/client"
-import "./index.css"
-import App from "./App"
-import { store } from "./store"
-import { Provider } from "react-redux"
-import "flowbite"
-import reportWebVitals from "./reportWebVitals"
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import './index.css'
+import App from './App'
+import 'flowbite'
+import reportWebVitals from './reportWebVitals'
 
-const root = ReactDOM.createRoot(document.getElementById("root"))
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Provider store={store}>
-    {/* <PersistGate loading={null} persistor={persistor}> */}
+  <React.StrictMode>
     <App />
-    {/* </PersistGate> */}
-  </Provider>
+  </React.StrictMode>
 )
 
 // If you want to start measuring performance in your app, pass a function
