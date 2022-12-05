@@ -455,4 +455,4 @@ frontend
 - [그룹, 개인] 랭킹 확인
     - 타임 랭킹 - 운동 시간 순    /    스트릭 랭킹 - 연속한 일 수 순
         
-        ![명예의전당.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b87e08b2-b998-446c-ab73-2a822960bb60/%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9.gif)
+        ![명예의전당](https://user-images.githubusercontent.com/97735859/205549323-7ece892e-bc8f-4d02-86a8-57fa75cd721b.gif)
