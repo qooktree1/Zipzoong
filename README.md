@@ -8,7 +8,7 @@
 
 ## 📖 주제
 
-운동 의지가 약한 사람들을 위해 그룹을 통해 다양한 참여 유도 정책을 제공하는 프로젝트****
+운동 의지가 약한 사람들을 위해 그룹을 통해 다양한 참여 유도 정책을 제공하는 프로젝트
 
 ---
 
@@ -442,7 +442,7 @@ frontend
     - 운동 리스트: 운동 루틴의 진행 상황 안내
     - 현재 운동: 현재 진행되고 있는 운동, 목표 횟수, 달성 횟수 정보 제공
     
-    ![KakaoTalk_20220821_164149386.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b4d3baa-7d13-47cb-8eb1-f2bf02bb776f/KakaoTalk_20220821_164149386.gif)
+    ![운동](https://user-images.githubusercontent.com/97735859/205548810-b8f398d0-c2aa-44d1-90e2-80365017440f.gif)
     
 
 - 운동 종료 후 결과 페이지 확인
