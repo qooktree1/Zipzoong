@@ -447,7 +447,7 @@ frontend
 
 - 운동 종료 후 결과 페이지 확인
     
-    ![KakaoTalk_20220821_012117316.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/878a4c49-d4b2-455e-9618-c5d1a5c03d70/KakaoTalk_20220821_012117316.gif)
+    ![종료](https://user-images.githubusercontent.com/97735859/205548958-8ef420bd-654e-43e8-9973-9765d432bc46.gif)
     
 
 ### 명예의 전당
