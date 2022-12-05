@@ -334,26 +334,27 @@ frontend
 
 ## **✔ 프로젝트 산출물**
 
-- [포팅메뉴얼](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A805/-/blob/master/exec/%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC_%EC%A7%91%EC%97%90%EC%84%9C%EC%9A%B4%EB%8F%99%EC%A4%91.pdf)
-- [ERD](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A805/-/blob/master/exec/ERD_%EC%A7%91%EC%97%90%EC%84%9C%EC%9A%B4%EB%8F%99%EC%A4%91.png)
-- [아키텍처](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A805/-/blob/master/exec/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90_%EC%A7%91%EC%97%90%EC%84%9C%EC%9A%B4%EB%8F%99%EC%A4%91.png)
-- [시연시나리오](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A805/-/blob/main/exec/%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EC%A7%91%EC%97%90%EC%84%9C%EC%9A%B4%EB%8F%99%EC%A4%91.pdf)
+[포팅매뉴얼](https://www.notion.so/183ed979f12d4eba9e5facb6a1e37a1a)
 
-[컨벤션 (1)](https://www.notion.so/1-8bef3ae2ba1b4007a24868d3fae5d98e)
+[ERD](https://www.notion.so/ERD-72aa30d632784dfaaf3d70c1a52dac75)
 
-[API (1)](https://www.notion.so/API-1-20238f1514bf43ec9a03678b0d3b82f9)
+[아키텍처](https://www.notion.so/7d64f14a6aca49a09673782021af0df0)
 
-[와이어프레임 (1)](https://www.notion.so/1-997f00cf0506409385066186ac065c28)
+[시연 시나리오](https://www.notion.so/807eed40377a48cab2274439917c1bc1)
 
-[회의록 (1)](https://www.notion.so/1-59f6e75603e449e7a4233b200a770078)
+[컨벤션](https://www.notion.so/8bef3ae2ba1b4007a24868d3fae5d98e)
 
-- [dumpdata](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A805/-/blob/main/exec/jibjoongdump.sql)
+[API](https://www.notion.so/API-20238f1514bf43ec9a03678b0d3b82f9)
 
-[사이트맵 (1)](https://www.notion.so/1-0d6091c1a1db4e76bfdde880fa53c246)
+[와이어프레임](https://www.notion.so/997f00cf0506409385066186ac065c28)
 
-[기능 명세서 (1)](https://www.notion.so/1-24186840427d4846a7f59ab5dd3b0e79)
+[회의록](https://www.notion.so/59f6e75603e449e7a4233b200a770078)
 
-[데일리 스크럼 (1)](https://www.notion.so/1-a83516ecb0da4dea94631f982cc74c8b)
+[사이트맵](https://www.notion.so/0d6091c1a1db4e76bfdde880fa53c246)
+
+[기능 명세서](https://www.notion.so/24186840427d4846a7f59ab5dd3b0e79)
+
+[데일리 스크럼](https://www.notion.so/a83516ecb0da4dea94631f982cc74c8b)
 
 ---
 
@@ -363,54 +364,54 @@ frontend
 
 - 닉네임 입력 - 닉네임 중복 조회
     
-    ![login2.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e36034d4-c26b-4475-894a-1089b064ede0/login2.gif)
+    ![login2](https://user-images.githubusercontent.com/97735859/205548022-42a34f1d-b84a-489e-8e17-eb2acc4b1a91.gif)
     
 - 전에 로그인 했던 사용자는 즉시 메인 페이지로 이동
     
-    ![login1.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4959a53e-faff-47af-bc6a-e4fc64c99287/login1.gif)
+    ![login1](https://user-images.githubusercontent.com/97735859/205548046-df379ad9-53f9-4e4f-8f84-e8c804547adc.gif)
     
 
 ### 마이페이지
 
 - 달력을 통한 개인 운동 기록 및 가입한 그룹 목록 등 운동 기록을 볼 수 있음
     
-    ![mypage1.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c9518ef-5bbd-480c-b01c-daf33f140fdb/mypage1.gif)
+    ![mypage1](https://user-images.githubusercontent.com/97735859/205548062-0448ae89-30d9-43f0-8f60-f64a2d8e99eb.gif)
     
 
 - 그룹 생성
     
-    ![KakaoTalk_20220821_012116446.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffbc51df-7b2d-4e15-a1bb-82d0cc867d83/KakaoTalk_20220821_012116446.gif)
+    ![KakaoTalk_20220821_012116446](https://user-images.githubusercontent.com/97735859/205548080-4b8ce8f1-6416-4a7b-8835-70b748aeac2d.gif)
     
 
 ### 개인 정보 수정
 
 - Navbar에서 개인 정보 수정 및 닉네임 중복 검사
     
-    ![개인정보수정.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ada5bf20-4792-4d86-b73a-682869ba7112/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95.gif)
+    ![개인정보수정](https://user-images.githubusercontent.com/97735859/205548096-3671abf4-584a-4007-86cd-362d7f2a77b2.gif)
     
 
 ### 튜토리얼
 
 - 서비스를 이용할 수 있도록 기능을 소개해주는 튜토리얼을 Navbar에 표시
     
-    ![tutorial.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1195d0df-a96f-440c-a2e5-e81063804483/tutorial.gif)
+    ![tutorial](https://user-images.githubusercontent.com/97735859/205548115-63f13d9e-3969-4da3-95f8-a3894ea95c71.gif)
     
 
 ### 그룹 페이지
 
 - 그룹페이지에서 그룹에 속한 팀원들의 정보를 볼 수 있음
     
-    ![KakaoTalk_20220821_012116769.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3ddcd36-748d-4783-88db-e92bfcc0894d/KakaoTalk_20220821_012116769.gif)
+    ![KakaoTalk_20220821_012116769](https://user-images.githubusercontent.com/97735859/205548147-4095ae85-a0a9-487e-b791-716d15c6c479.gif)
     
 
 - 날짜별 운동 정보, 쉴드 개수, 그룹 랭킹(본인 그룹 & [위, 아래] 각 2 그룹, 전체 운동 횟수 보기
     
-    ![group2.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03baa0d3-0b8c-4449-a636-5ecc0b5efab8/group2.gif)
+    ![group2](https://user-images.githubusercontent.com/97735859/205548173-81f37afd-0e63-475c-89c3-06ed79aeea66.gif)
     
 
 - 운동 방 생성
     
-    ![KakaoTalk_20220821_012117103.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22db5ab6-36b5-4589-9269-c3caf9e50f74/KakaoTalk_20220821_012117103.gif)
+    ![KakaoTalk_20220821_012117103](https://user-images.githubusercontent.com/97735859/205548193-433e4675-673d-48a7-88dd-b29e82ebecc1.gif)
     
 
 ### 그룹 설정 페이지
@@ -419,14 +420,14 @@ frontend
     - 엄지 척 아이콘은 그룹원들이 모두 운동을 한 날
     - 쉴드 아이콘은 그룹이 쉴드를 가진 상태에서 운동을 다하지 못한 상태에서 다음날에 아이템이 자동으로 써집니다
     
-    ![KakaoTalk_20220821_012117711.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dd79db5-3dd0-4088-b689-50e3b8010f83/KakaoTalk_20220821_012117711.gif)
+    ![KakaoTalk_20220821_012117711](https://user-images.githubusercontent.com/97735859/205548221-be14b6fb-0f3a-4e25-aefb-a9e0473de104.gif)
     
 
 ### 루틴 페이지
 
 - 그룹페이지에서 루틴을 설정 가능(6가지 운동 및 휴식)
     
-    ![KakaoTalk_20220821_012117978.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d958fe40-0f0b-406e-a363-5449297c881c/KakaoTalk_20220821_012117978.gif)
+    ![KakaoTalk_20220821_012117978](https://user-images.githubusercontent.com/97735859/205548254-410f6eec-8a80-4c12-b301-0be271ccce75.gif)
     
 
 ### 운동 페이지
@@ -434,7 +435,7 @@ frontend
 - 운동방 생성 및 루틴 선택
     - 운동방이 생성되면 등록된 루틴 확인 및 선택 가능
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d2def9c-26dd-4c7a-b427-9e3545e76659/Untitled.gif)
+    ![Untitled](https://user-images.githubusercontent.com/97735859/205548277-22284a10-af67-4bd2-bbbb-a5640d6ca193.gif)
     
 - 운동 진행 화면
     - 타이머: 남은 운동 시간 표시
